@@ -17,6 +17,15 @@ pipeline {
                 }
             }
         }
+		
+		        stage('Deploy application'){
+            steps{
+			
+                build job: 'APPLICATION-DEPLOYMENT-JOB'
+ 
+            }
+            
+        }
 
 
       }
