@@ -1,8 +1,8 @@
 <html>
 <body>
-<h2>Hello Everyone</h2>
+<h1>Hello Everyone</h1>
 
-<h3>WelCome to CI/CD pipeline project</h3>
+<h2>WelCome to CI/CD pipeline project. This is Jenkins File and deployment demo</h2>
 
 </body>
 </html>
