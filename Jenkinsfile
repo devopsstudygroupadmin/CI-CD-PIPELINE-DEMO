@@ -2,7 +2,7 @@ pipeline {
     agent any
     
      tools {
-        maven "M2.HOME"
+        maven "M2_HOME"
     }
     stages {
         stage('Build Application') {
